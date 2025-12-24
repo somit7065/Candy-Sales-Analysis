@@ -1,1 +1,7 @@
-# Candy-Sales-Analysis
+# Cardiac Arrest Data Analysis
+
+This Jupyter Notebook demonstrates data analysis using Python, including:
+- Data cleaning
+- Exploratory data analysis (EDA)
+- Visualization using Matplotlib and Seaborn
+- Insights and observations
