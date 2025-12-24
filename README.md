@@ -1,4 +1,4 @@
-# Cardiac Arrest Data Analysis
+# Cardiac Arrest Analysis
 
 This Jupyter Notebook demonstrates data analysis using Python, including:
 - Data cleaning
